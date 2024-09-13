@@ -1,0 +1,1 @@
+"Monotonically" is an adverb derived from "monotonic," which refers to a function or sequence that is consistently increasing or decreasing
