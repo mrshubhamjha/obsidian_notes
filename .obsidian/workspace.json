@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d2cfcbee39c7fad",
+            "id": "82486571c4e9c9ed",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f752de621e246898",
@@ -139,8 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d2cfcbee39c7fad",
+  "active": "82486571c4e9c9ed",
   "lastOpenFiles": [
+    "lecture 18.md",
+    "Time and Space Complexity",
     "INTRODUCTION TO ALGORITHMS/README.md",
     "INTRODUCTION TO ALGORITHMS/NOTES/01_INTRODUCTION/The role of algorithm in computing/1.1 Algorithms.md",
     "INTRODUCTION TO ALGORITHMS/monotonic.md",
@@ -158,7 +161,6 @@
     ", Fall 2010.",
     "MIT 6.042J Mathematics for CS, Fall 2010.",
     "MIT 6.042J Mathematics for CS, Fall 2010..md",
-    "r CS, Fall 2010",
-    "r CS, Fall 2010/."
+    "r CS, Fall 2010"
   ]
 }
